@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hirad Hosseini</h1>
+<h1 align="center">Hi 👋, I'm Hirad!</h1>
 <h3 align="center">A passionate undergraduate interested in AI/ML applications to healthcare and bioinformatics</h3>
 
 - 👨‍💻 All of my projects are available at [hiradhosseini.com](hiradhosseini.com)
