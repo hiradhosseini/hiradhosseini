@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hirad!</h1>
 <h3 align="center">A passionate undergraduate interested in AI/ML applications to the geosciences and bioinformatics</h3>
 
-- 👨‍💻 All of my projects are available at [hiradhosseini.com](hiradhosseini.com)
+- 👨‍💻 All of my projects are available at [hiradhosseini.com](https://www.hiradhosseini.com/)
 
-- 📄 Know about my experiences [hiradhosseini.com](hiradhosseini.com)
+- 📄 Know about my experiences [hiradhosseini.com](https://www.hiradhosseini.com/)
 
 - 📫 How to reach me **hosseini.hirad@gmail.com**
 
